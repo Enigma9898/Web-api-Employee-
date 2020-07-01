@@ -1,0 +1,12 @@
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EmployeeManagement.Models.dll.config
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EmployeeManagement.Models.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EmployeeManagement.Models.pdb
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EntityFramework.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EntityFramework.xml
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.csproj.CopyComplete
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.pdb
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.csprojAssemblyReference.cache

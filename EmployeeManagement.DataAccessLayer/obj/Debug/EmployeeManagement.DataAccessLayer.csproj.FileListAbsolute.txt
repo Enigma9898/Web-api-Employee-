@@ -1,0 +1,17 @@
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.DataAccessLayer.dll.config
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.DataAccessLayer.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.DataAccessLayer.pdb
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.Models.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.Models.pdb
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EmployeeManagement.Models.dll.config
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.Migrations.Emp.resources
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.csproj.CopyComplete
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.dll
+C:\Users\M1049305\source\repos\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\EmployeeManagement.DataAccessLayer.pdb
